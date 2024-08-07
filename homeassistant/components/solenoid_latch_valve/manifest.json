@@ -1,0 +1,10 @@
+{
+  "domain": "solenoid_latch_valve",
+  "name": "Solenoid latch valve",
+  "codeowners": ["@matteorosani"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/solenoid_latch_valve",
+  "iot_class": "local_push",
+  "requirements": ["RPi.GPIO==0.7.1"]
+}

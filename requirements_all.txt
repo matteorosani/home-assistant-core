@@ -105,6 +105,9 @@ PyViCare==2.32.0
 # homeassistant.components.xiaomi_aqara
 PyXiaomiGateway==0.14.3
 
+# homeassistant.components.solenoid_latch_valve
+RPi.GPIO==0.7.1
+
 # homeassistant.components.rachio
 RachioPy==1.1.0
 
